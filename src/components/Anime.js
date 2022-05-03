@@ -9,12 +9,12 @@ import Senku from "../assets/images/anime/senku.jpg"
 const Anime = () => {
   return (
     <div>
-      <Container>
+      <Container id="Anime">
         <br />
         <h1 className="text-white">ANIME SERIES</h1>
         <br />
         <Row>
-          <Col md={4} className="movieWrapper" id="Anime">
+          <Col md={4} className="movieWrapper">
             <Card className="movieImage">
               <Image src={bp} alt="Dune Movies" className="images" />
               <div className="bg-dark">

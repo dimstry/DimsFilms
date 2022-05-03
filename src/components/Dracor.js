@@ -9,12 +9,12 @@ import True from "../assets/images/dracor/true.jpg"
 const Dracor = () => {
   return (
     <div>
-      <Container>
+      <Container id="Dracor">
         <br />
         <h1 className="text-white">DRACOR SERIES</h1>
         <br />
         <Row>
-          <Col md={4} className="movieWrapper" id="Dracor">
+          <Col md={4} className="movieWrapper">
             <Card className="movieImage">
               <Image src={All} alt="Dune Movies" className="images" />
               <div className="bg-dark">
