@@ -1,10 +1,10 @@
 import { Card, Container, Row, Col, Image } from "react-bootstrap"
-import bp from "../assets/images/anime/bp.png"
-import Haikyu from "../assets/images/anime/haikyu.png"
-import Hunter from "../assets/images/anime/hunter.jpg"
-import Luffy from "../assets/images/anime/luffy.jpg"
-import Naruto from "../assets/images/anime/naruto.jpg"
-import Senku from "../assets/images/anime/senku.jpg"
+import avatar from "../assets/images/tranding/avatar.jpg"
+import Busan from "../assets/images/tranding/busan.jpg"
+import Dreadout from "../assets/images/tranding/dreadout.jpg"
+import jjk from "../assets/images/tranding/jjk.jpg"
+import joker from "../assets/images/tranding/joker.jpg"
+import medium from "../assets/images/tranding/medium.jpg"
 
 const Tranding = () => {
   return (
@@ -16,10 +16,10 @@ const Tranding = () => {
         <Row>
           <Col md={4} className="movieWrapper">
             <Card className="movieImage">
-              <Image src={bp} alt="Dune Movies" className="images" />
+              <Image src={avatar} alt="tranding" className="images" />
               <div className="bg-dark">
                 <div className="p-2 m-1 text-white">
-                  <Card.Title className="text-center">Black Clover</Card.Title>
+                  <Card.Title className="text-center">Avatar 2</Card.Title>
                   <Card.Text className="text-left">
                     This is a wider card with natural lead-in to additional
                     content
@@ -33,10 +33,10 @@ const Tranding = () => {
           </Col>
           <Col md={4} className="movieWrapper">
             <Card className="movieImage">
-              <Image src={Haikyu} alt="Dune Movies" className="images" />
+              <Image src={Busan} alt="tranding" className="images" />
               <div className="bg-dark">
                 <div className="p-2 m-1 text-white">
-                  <Card.Title className="text-center">Haikyu</Card.Title>
+                  <Card.Title className="text-center">Train To Busan</Card.Title>
                   <Card.Text className="text-left">
                     This is a wider card with natural lead-in to additional
                     content
@@ -50,31 +50,10 @@ const Tranding = () => {
           </Col>
           <Col md={4} className="movieWrapper">
             <Card className="movieImage">
-              <Image src={Hunter} alt="Dune Movies" className="images" />
+              <Image src={Dreadout} alt="tranding" className="images" />
               <div className="bg-dark">
                 <div className="p-2 m-1 text-white">
-                  <Card.Title className="text-center">Hunter X Hunter</Card.Title>
-                  <Card.Text className="text-left">
-                    This is a wider card with natural lead-in to additional
-                    content
-                  </Card.Text>
-                  <Card.Text className="text-left">
-                    Last updated 3 mins ago
-                  </Card.Text>
-                </div>
-              </div>
-            </Card>
-          </Col>
-          <Col md={4} className="movieWrapper">
-            <Card className="movieImage">
-              <Image
-                src={Senku}
-                alt="Dune Movies"
-                className="images"
-              />
-              <div className="bg-dark">
-                <div className="p-2 m-1 text-white">
-                  <Card.Title className="text-center">Dokter Stone</Card.Title>
+                  <Card.Title className="text-center"> Dreadout</Card.Title>
                   <Card.Text className="text-left">
                     This is a wider card with natural lead-in to additional
                     content
@@ -89,13 +68,13 @@ const Tranding = () => {
           <Col md={4} className="movieWrapper">
             <Card className="movieImage">
               <Image
-                src={Naruto}
-                alt="Dune Movies"
+                src={medium}
+                alt="tranding"
                 className="images"
               />
               <div className="bg-dark">
                 <div className="p-2 m-1 text-white">
-                  <Card.Title className="text-center">Naruto</Card.Title>
+                  <Card.Title className="text-center">The Medium</Card.Title>
                   <Card.Text className="text-left">
                     This is a wider card with natural lead-in to additional
                     content
@@ -109,10 +88,31 @@ const Tranding = () => {
           </Col>
           <Col md={4} className="movieWrapper">
             <Card className="movieImage">
-              <Image src={Luffy} alt="Dune Movies" className="images" />
+              <Image
+                src={joker}
+                alt="tranding"
+                className="images"
+              />
               <div className="bg-dark">
                 <div className="p-2 m-1 text-white">
-                  <Card.Title className="text-center">One Piece</Card.Title>
+                  <Card.Title className="text-center">Joker</Card.Title>
+                  <Card.Text className="text-left">
+                    This is a wider card with natural lead-in to additional
+                    content
+                  </Card.Text>
+                  <Card.Text className="text-left">
+                    Last updated 3 mins ago
+                  </Card.Text>
+                </div>
+              </div>
+            </Card>
+          </Col>
+          <Col md={4} className="movieWrapper">
+            <Card className="movieImage">
+              <Image src={jjk} alt="tranding" className="images" />
+              <div className="bg-dark">
+                <div className="p-2 m-1 text-white">
+                  <Card.Title className="text-center">Jujutsu Kaisen 0</Card.Title>
                   <Card.Text className="text-left">
                     This is a wider card with natural lead-in to additional
                     content
