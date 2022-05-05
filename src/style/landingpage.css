@@ -26,6 +26,11 @@
   background: url("../assets/images/bg/spiderman.jpg");
   background-size: cover;
 }
+.tranding {
+  height: auto;
+  background: url("../assets/images/bg/main1.jpg");
+  background-size: cover;
+}
 
 .movieWrapper {
 }
