@@ -16,7 +16,7 @@ const Anime = () => {
         <Row>
           <Col md={4} className="movieWrapper">
             <Card className="movieImage">
-              <Image src={bp} alt="Dune Movies" className="images" />
+              <Image src={bp} alt="bp" className="images" />
               <div className="bg-dark">
                 <div className="p-2 m-1 text-white">
                   <Card.Title className="text-center">Black Clover</Card.Title>
@@ -33,7 +33,7 @@ const Anime = () => {
           </Col>
           <Col md={4} className="movieWrapper">
             <Card className="movieImage">
-              <Image src={Haikyu} alt="Dune Movies" className="images" />
+              <Image src={Haikyu} alt="Haikyu" className="images" />
               <div className="bg-dark">
                 <div className="p-2 m-1 text-white">
                   <Card.Title className="text-center">Haikyu</Card.Title>
@@ -50,7 +50,7 @@ const Anime = () => {
           </Col>
           <Col md={4} className="movieWrapper">
             <Card className="movieImage">
-              <Image src={Hunter} alt="Dune Movies" className="images" />
+              <Image src={Hunter} alt="Hunter" className="images" />
               <div className="bg-dark">
                 <div className="p-2 m-1 text-white">
                   <Card.Title className="text-center">Hunter X Hunter</Card.Title>
@@ -69,7 +69,7 @@ const Anime = () => {
             <Card className="movieImage">
               <Image
                 src={Senku}
-                alt="Dune Movies"
+                alt="Senku"
                 className="images"
               />
               <div className="bg-dark">
@@ -90,12 +90,12 @@ const Anime = () => {
             <Card className="movieImage">
               <Image
                 src={Naruto}
-                alt="Dune Movies"
+                alt="Naruto"
                 className="images"
               />
               <div className="bg-dark">
                 <div className="p-2 m-1 text-white">
-                  <Card.Title className="text-center">Naruto</Card.Title>
+                  <Card.Title className="text-center">Naruto Shipudden</Card.Title>
                   <Card.Text className="text-left">
                     This is a wider card with natural lead-in to additional
                     content
@@ -109,7 +109,7 @@ const Anime = () => {
           </Col>
           <Col md={4} className="movieWrapper">
             <Card className="movieImage">
-              <Image src={Luffy} alt="Dune Movies" className="images" />
+              <Image src={Luffy} alt="Luffy" className="images" />
               <div className="bg-dark">
                 <div className="p-2 m-1 text-white">
                   <Card.Title className="text-center">One Piece</Card.Title>
