@@ -15,6 +15,9 @@ function App() {
         <Intro />
       </div>
       {/* End Intro */}
+      <div className="tranding">
+        <Tranding />
+      </div>
 
       <div className="dracor">
         <Dracor />
@@ -24,9 +27,6 @@ function App() {
         <Anime />
       </div>
       
-      <div className="tranding">
-        <Tranding />
-      </div>
 
     </div>
   );
