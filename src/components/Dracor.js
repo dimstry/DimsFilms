@@ -16,10 +16,10 @@ const Dracor = () => {
         <Row>
           <Col md={4} className="movieWrapper">
             <Card className="movieImage">
-              <Image src={All} alt="Dune Movies" className="images" />
+              <Image src={All} alt="All" className="images" />
               <div className="bg-dark">
                 <div className="p-2 m-1 text-white">
-                  <Card.Title className="text-center">all of us are dead</Card.Title>
+                  <Card.Title className="text-center">All of us are dead</Card.Title>
                   <Card.Text className="text-left">
                     This is a wider card with natural lead-in to additional
                     content
@@ -35,13 +35,13 @@ const Dracor = () => {
             <Card className="movieImage">
               <Image
                 src={bp}
-                alt="Dune Movies"
+                alt="bp"
                 className="images"
               />
               <div className="bg-dark">
                 <div className="p-2 m-1 text-white">
                   <Card.Title className="text-center">
-                    business proposal
+                    Business Proposal
                   </Card.Title>
                   <Card.Text className="text-left">
                     This is a wider card with natural lead-in to additional
@@ -56,7 +56,7 @@ const Dracor = () => {
           </Col>
           <Col md={4} className="movieWrapper">
             <Card className="movieImage">
-              <Image src={Goblin} alt="Dune Movies" className="images" />
+              <Image src={Goblin} alt="Goblin" className="images" />
               <div className="bg-dark">
                 <div className="p-2 m-1 text-white">
                   <Card.Title className="text-center">Goblin</Card.Title>
@@ -73,7 +73,7 @@ const Dracor = () => {
           </Col>
           <Col md={4} className="movieWrapper">
             <Card className="movieImage">
-              <Image src={SnowDrop} alt="Dune Movies" className="images" />
+              <Image src={SnowDrop} alt="SnowDrop" className="images" />
               <div className="bg-dark">
                 <div className="p-2 m-1 text-white">
                   <Card.Title className="text-center">Snowdrop</Card.Title>
@@ -92,7 +92,7 @@ const Dracor = () => {
             <Card className="movieImage">
               <Image
                 src={Sweet}
-                alt="Dune Movies"
+                alt="Sweet"
                 className="images"
               />
               <div className="bg-dark">
@@ -111,7 +111,7 @@ const Dracor = () => {
           </Col>
           <Col md={4} className="movieWrapper">
             <Card className="movieImage">
-              <Image src={True} alt="Dune Movies" className="images" />
+              <Image src={True} alt="true" className="images" />
               <div className="bg-dark">
                 <div className="p-2 m-1 text-white">
                   <Card.Title className="text-center">True Beauty</Card.Title>
