@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/DimsFilms/static/css/main.6bc411b1.css",
+    "main.js": "/DimsFilms/static/js/main.254bf0ae.js",
+    "static/js/787.28cb0dcd.chunk.js": "/DimsFilms/static/js/787.28cb0dcd.chunk.js",
+    "static/media/scifi.jpg": "/DimsFilms/static/media/scifi.d7e33e800ac02f489fd8.jpg",
+    "static/media/main.jpg": "/DimsFilms/static/media/main.6491c0f3ae7e0957c365.jpg",
+    "static/media/spiderman.jpg": "/DimsFilms/static/media/spiderman.2d8e48db70fee2a9fbe9.jpg",
+    "static/media/main1.jpg": "/DimsFilms/static/media/main1.4a912a242568343fea42.jpg",
+    "static/media/haikyu.png": "/DimsFilms/static/media/haikyu.16c1db8a492f6ee70429.png",
+    "static/media/bp.png": "/DimsFilms/static/media/bp.121f63ff31c40bb0a710.png",
+    "static/media/senku.jpg": "/DimsFilms/static/media/senku.a4fd7234dedb2a125ab2.jpg",
+    "static/media/luffy.jpg": "/DimsFilms/static/media/luffy.d91bdb4934ac5d4b2850.jpg",
+    "static/media/all.jpg": "/DimsFilms/static/media/all.d8ca792697dc36b4b98c.jpg",
+    "static/media/bp.jpg": "/DimsFilms/static/media/bp.3ded6240219ea84dedd3.jpg",
+    "static/media/naruto.jpg": "/DimsFilms/static/media/naruto.3644fa9edd0677266168.jpg",
+    "static/media/joker.jpg": "/DimsFilms/static/media/joker.b7567d0207842a646415.jpg",
+    "static/media/hunter.jpg": "/DimsFilms/static/media/hunter.5081133fcdd54fd2be7a.jpg",
+    "static/media/jjk.jpg": "/DimsFilms/static/media/jjk.968a501617a6f9cd5fa9.jpg",
+    "static/media/snowdrop.jpg": "/DimsFilms/static/media/snowdrop.aff7329078ef5ee183ae.jpg",
+    "static/media/true.jpg": "/DimsFilms/static/media/true.c80bc5acc1736b4f2193.jpg",
+    "static/media/sweet.jpg": "/DimsFilms/static/media/sweet.2d6adf14389a17876336.jpg",
+    "static/media/medium.jpg": "/DimsFilms/static/media/medium.7c18deefeae991e4cf6d.jpg",
+    "static/media/goblin.jpg": "/DimsFilms/static/media/goblin.b89963c127c10f2ad5e7.jpg",
+    "static/media/avatar.jpg": "/DimsFilms/static/media/avatar.140d7267a765b31b4659.jpg",
+    "static/media/busan.jpg": "/DimsFilms/static/media/busan.e22e1cd8a8b3283d2271.jpg",
+    "static/media/dreadout.jpg": "/DimsFilms/static/media/dreadout.ae1c69bcf353c1a31e61.jpg",
+    "index.html": "/DimsFilms/index.html",
+    "main.6bc411b1.css.map": "/DimsFilms/static/css/main.6bc411b1.css.map",
+    "main.254bf0ae.js.map": "/DimsFilms/static/js/main.254bf0ae.js.map",
+    "787.28cb0dcd.chunk.js.map": "/DimsFilms/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bc411b1.css",
+    "static/js/main.254bf0ae.js"
+  ]
+}
